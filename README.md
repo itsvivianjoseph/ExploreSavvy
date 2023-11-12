@@ -44,3 +44,6 @@ Valuable insights for businesses to enhance their operations. :rocket:
 - Monitoring new entrants and disruptors :warning:
 - Data privacy and security :lock:
 - Staying updated on industry trends :chart_with_upwards_trend:
+
+## Deployed at : 
+https://itsvivianjoseph.github.io/ExploreSavvy/
